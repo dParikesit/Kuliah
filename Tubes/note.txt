@@ -1,0 +1,60 @@
+Awal
+1. Selamat Datang
+2. Saldo
+3. Rekening
+4. Transfer
+5. Pembayaran
+6. Pembelian
+7. Produk Jasa Lainnya
+
+Rekening
+1. Tabungan dan Giro
+2. Deposito dan Tapenas
+3. DPLK/BNI Simponi
+4. Pinjaman
+5. Pembukaan Rekening
+
+Transfer
+1. Rekening Sendiri
+2. BNI
+3. AntarBank
+4. Kliring
+5. Dana Pensiun/BNI Simponi
+6. VA Billing
+7. International Remittence
+
+Pembayaran
+1. CC BNI
+2. CC Bank Lainnya
+3. Pascabayar telepon
+4. Listrik
+5. TV Berlangganan
+6. ZIS Qurban
+7. Pembayaran PDAM dan IPL
+8. Asuransi
+9. Tiket KAI dan Railink
+10. Tiket Penerbangan
+11. Internet
+12. Biaya Pendidikan
+13. Pajak
+14. PGN
+15. SAMSAT
+16. BPJS Sehat
+17. BPJS Ketenagakerjaan
+
+Pembelian
+1. LinkAja
+2. Voucher Prabayar telepon
+3. Token Listrik
+4. Topup agen Penerbangan
+5. Topup gopay
+6. Paket Data
+7. Topup TapCash
+8. Voucher TV Berlangganan
+9. Top up uang elektronik
+
+Lainnya
+1. Aktivasi Transaksi Kartu di LN
+2. Bukti Transaksi
+3. Ubah PIN Debit
+4. SMS Notif
